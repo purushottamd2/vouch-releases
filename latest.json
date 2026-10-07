@@ -1,0 +1,5 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.1/VouchSetup-1.0.1.exe",
+  "notes": "Tally-style menus and keys (D A L, Alt+G Go To, F10, Ctrl+Enter, Backspace), GST tax invoice print, detailed and columnar reports, Excel import of all vouchers, GST returns for imported Tally data."
+}
