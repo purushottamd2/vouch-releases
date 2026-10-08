@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.2/VouchSetup-1.0.2.exe",
-  "notes": "Tally-style reports: Cash Flow, Funds Flow, Receipts & Payments, Ratio Analysis (R), interest on overdue bills. Bill of Materials with Alt+M manufacture. Send invoices and ledger statements on WhatsApp (Ctrl+W) or e-mail (Ctrl+M). Backups copied to OneDrive / Google Drive, last backup on the Gateway. Page Up / Page Down between vouchers. Company folders named after the company."
+  "version": "1.0.3",
+  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.3/VouchSetup-1.0.3.exe",
+  "notes": "Ledger fields no longer pop up the full list when a saved voucher is opened (the list appears when you type or press Up/Down). Esc closes a list you opened; an unchanged saved voucher closes without asking. Includes everything in 1.0.2: Cash/Funds Flow, Receipts & Payments, Ratio Analysis, overdue interest, Bill of Materials, WhatsApp and e-mail sending, cloud backup, PgUp/PgDn."
 }
