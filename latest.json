@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.1/VouchSetup-1.0.1.exe",
-  "notes": "Tally-style menus and keys (D A L, Alt+G Go To, F10, Ctrl+Enter, Backspace), GST tax invoice print, detailed and columnar reports, Excel import of all vouchers, GST returns for imported Tally data."
+  "version": "1.0.2",
+  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.2/VouchSetup-1.0.2.exe",
+  "notes": "Tally-style reports: Cash Flow, Funds Flow, Receipts & Payments, Ratio Analysis (R), interest on overdue bills. Bill of Materials with Alt+M manufacture. Send invoices and ledger statements on WhatsApp (Ctrl+W) or e-mail (Ctrl+M). Backups copied to OneDrive / Google Drive, last backup on the Gateway. Page Up / Page Down between vouchers. Company folders named after the company."
 }
