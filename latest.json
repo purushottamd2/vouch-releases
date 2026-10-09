@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.3/VouchSetup-1.0.3.exe",
-  "notes": "Ledger fields no longer pop up the full list when a saved voucher is opened (the list appears when you type or press Up/Down). Esc closes a list you opened; an unchanged saved voucher closes without asking. Includes everything in 1.0.2: Cash/Funds Flow, Receipts & Payments, Ratio Analysis, overdue interest, Bill of Materials, WhatsApp and e-mail sending, cloud backup, PgUp/PgDn."
+  "version": "1.0.4",
+  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.4/VouchSetup-1.0.4.exe",
+  "notes": "Tally import with opening balances as on a start date and direct reading from a running Tally. GSTR-2B reconciliation, GSTR-9, GSTR-4/CMP-08, ITC-04. Optional vouchers (Ctrl+L) and Exception Reports. Stock Ageing, Sales/Purchase Analysis, Item-wise Gross Profit. POS invoice with barcode scanning and mixed payments; barcode labels. Alt+C in vouchers creates stock items and sales/purchase ledgers."
 }
