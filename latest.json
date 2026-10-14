@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.4/VouchSetup-1.0.4.exe",
-  "notes": "Tally import with opening balances as on a start date and direct reading from a running Tally. GSTR-2B reconciliation, GSTR-9, GSTR-4/CMP-08, ITC-04. Optional vouchers (Ctrl+L) and Exception Reports. Stock Ageing, Sales/Purchase Analysis, Item-wise Gross Profit. POS invoice with barcode scanning and mixed payments; barcode labels. Alt+C in vouchers creates stock items and sales/purchase ledgers."
+  "version": "1.0.5",
+  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.0.5/VouchSetup-1.0.5.exe",
+  "notes": "Free trial is now 15 days, and this update gives every computer a fresh 15-day trial. D A L opens with the list of ledgers shown; choosing a ledger puts the cursor on its entries. Ctrl+Enter in reports alters the ledger, group or stock item, as in Tally."
 }
