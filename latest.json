@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.1.2/VouchSetup-1.1.2.exe",
-  "notes": "Updating no longer fails with “Access is denied” when Claude is connected to Vouch: setup stops the background Claude connector first. Also includes 1.1.1: Import from Tally keeps every voucher number, including repeated ones."
+  "version": "1.1.3",
+  "url": "https://github.com/purushottamd2/vouch-releases/releases/download/v1.1.3/VouchSetup-1.1.3.exe",
+  "notes": "Closing stock by date, as in Tally: a Stock-in-Hand ledger can carry its closing values as at dates, and Profit & Loss, Balance Sheet and Trial Balance use them as opening and closing stock. Import from Tally now takes over these values."
 }
